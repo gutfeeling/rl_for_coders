@@ -27,6 +27,6 @@ setup(name = "deep_q_network_nips",
           "PyOpenGL-accelerate==3.1.0",
           "scipy==1.0.1",
           # Assuming Tensorflow backend (CPU version) for Keras
-          "tensorflow-gpu==1.8.0",
+          "tensorflow-gpu==2.3.1",
       ],
 )
