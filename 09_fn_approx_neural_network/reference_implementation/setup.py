@@ -24,6 +24,6 @@ setup(name = "fn_approx_neural_network",
           "Keras==2.1.5",
           "scipy==1.0.1",
           # Assuming Tensorflow backend (CPU version) for Keras
-          "tensorflow==1.7.0",
+          "tensorflow==2.5.0",
       ],
 )
